@@ -1,0 +1,145 @@
+@media (min-width: 320px) and (max-width: 576px) {
+    .bnr_txt h2 {
+        font-size: 44px;
+
+    }
+
+    .bnr_txt h1 span {
+        font-size: 19px;
+    }
+
+    .btn {
+        padding: 15px 28px;
+        font-size: 16px;
+        display: inline-block;
+        margin: 10px 0;
+    }
+
+    .paragraph {
+        padding-bottom: 20px;
+
+    }
+
+    .write {
+        text-align: center;
+    }
+
+    .write p {
+        font-size: 12px;
+        line-height: 21px;
+        padding: 20px 0px;
+    }
+
+    .slide_cnt p {
+        font-size: 13px;
+        margin-bottom: 15px;
+        text-align: justify;
+    }
+
+    .lph_txt {
+        font-size: 18px;
+        padding-top: 19px;
+    }
+
+    .last_prt_head {
+        margin-bottom: 20px;
+    }
+
+    .lft_prt a {
+        padding-left: 0px;
+        margin: 7px;
+    }
+
+    .lft_prt i {
+        padding: 7px;
+        font-size: 15px;
+    }
+
+    .lft_prt span {
+        padding-left: 0px;
+        font-size: 13px;
+    }
+
+    .rgt_prt {
+        padding-top: 15px;
+    }
+
+    .contact {
+        margin-bottom: 35px;
+    }
+
+    .footer_lft p {
+        padding: 8px 0px;
+        margin-top: 0px;
+        font-size: 15px;
+        font-size: 9px;
+    }
+
+    .foter_icon {
+        text-align: left;
+    }
+
+    .foter_icon a {
+        padding: 5px;
+    }
+
+    .foter_icon i {
+        font-size: 14 px;
+    }
+
+    .bten {
+        text-align: center;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .bnr_btn {
+        margin-bottom: 191px;
+    }
+
+    .btn {
+        margin: 10px 6px;
+    }
+
+    .last_prt_head {
+        margin-bottom: 39px;
+    }
+
+    .lph_txt {
+        font-size: 20px;
+        padding-top: 40px;
+    }
+
+    .lft_prt a {
+        margin: 11px;
+    }
+
+    .lft_prt i {
+        font-size: 18px;
+    }
+
+    .lft_prt span {
+        font-size: 18px;
+    }
+
+    .footer_lft {
+        text-align: center;
+    }
+
+    .foter_icon {
+        text-align: center;
+    }
+
+    .bten {
+        text-align: center;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
